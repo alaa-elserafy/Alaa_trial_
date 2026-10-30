@@ -1,3 +1,4 @@
 x = 5 
 y=10
-print(x+y)
+z = 5
+print(x+y+z)
